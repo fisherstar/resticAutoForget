@@ -6,7 +6,7 @@ achieve,This bat file will work, which is too concise.
 
 It seems hard to find a filesystem watcher in windows system.
 
-- [x] I have written RESTIC_PASSWORD in the environment variable before
+- [x] I have written RESTIC_PASSWORD in the environment variable before 😃
 
 ```batch
 @echo off
