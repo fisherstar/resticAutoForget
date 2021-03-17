@@ -1,4 +1,4 @@
-# resticAutoBat
+# resticAutoForget
 Restic windows .bat file. Solve the problem of adding too many same snapshots.Create a new snapshot only if the source folder changes.
 
 Most of the time I don’t make changes to the file, so there will be a lot of new snapshots that are the same as the previous one. Restic don't has “flag” to 
